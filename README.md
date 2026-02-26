@@ -19,3 +19,4 @@ Yapay zeka ve SAP dünyasını bir araya getirmek — akıllı ERP çözümleri 
 ---
 
 > *"ERP'nin gücünü yapay zeka ile birleştirmek, geleceğin iş süreçlerini şekillendirmektir."*
+
